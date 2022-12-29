@@ -14,7 +14,7 @@
     "@edgio/cli": "^6.0.1",
     "@edgio/core": "^6.0.1",
     "@edgio/devtools": "^6.0.1",
-    "@edgio/nuxt-nitro": "^6.0.1",
+    "@edgio/nuxt-nitro": "^6.0.5",
     "@edgio/prefetch": "^6.0.1",
     "@edgio/rum": "latest",
     "@edgio/vue": "^6.0.1"
