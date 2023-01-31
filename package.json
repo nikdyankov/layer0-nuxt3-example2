@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@edgio/cli": "^6.0.1",
-    "@edgio/core": "^6.0.1",
+    "@edgio/core": "^6.1.0",
     "@edgio/devtools": "^6.0.1",
     "@edgio/nuxt-nitro": "^6.0.1",
     "@edgio/prefetch": "^6.0.1",
